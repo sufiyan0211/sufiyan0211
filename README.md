@@ -6,17 +6,15 @@
 
 ## Download Resume:
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1j06uCQKqlcHwoqp3pVO-zSXIzzczJoyZ/view?usp=sharing)
-
 </br>
 
 ## Github Statistics
 <p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sufiyan0211&show_icons=true&theme=transparent"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyan0211&layout=compact&theme=transparent"/>
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyan0211&layout=compact&theme=transparent"/>
 </p>
 </br>
-===
-
+</br>
 
 ## Technologies Worked On:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
