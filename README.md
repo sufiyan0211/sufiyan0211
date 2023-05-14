@@ -2,14 +2,18 @@
 <p>
 <b>Software Engineer</b> with a passion for building scalable systems. I have worked on a wide range of projects and contributed in building systems, services, and platforms at companies such as <b>Zuora</b> and <b>OpenText</b>.
 </p>
+</br>
 
-## Download My Resume
-[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)]([https://GitHub.com/Naereen/StrapDown.js/releases/](https://drive.google.com/file/d/1j06uCQKqlcHwoqp3pVO-zSXIzzczJoyZ/view?usp=sharing))
+## Download Resume:
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1j06uCQKqlcHwoqp3pVO-zSXIzzczJoyZ/view?usp=sharing)
+</br>
 
+## Github Statistics
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sufiyan0211&show_icons=true&theme=transparent" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyan0211&layout=compact&theme=transparent" />
+</br>
+===
 
-<br>
 
 ## Technologies Worked On:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -20,6 +24,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
+</br>
 
 
 ## Profile Links:
