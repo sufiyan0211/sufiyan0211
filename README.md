@@ -11,7 +11,7 @@
 ## Github Statistics
 <p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sufiyan0211&show_icons=true&theme=transparent"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyan0211&layout=compact&theme=transparent"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyan0211&layout=demo&theme=transparent"/>
 </p>
 </br>
 </br>
