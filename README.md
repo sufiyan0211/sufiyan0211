@@ -1,5 +1,7 @@
 # Hi there, I'm Sofiyan! 👋
-
+<p style="text-align:center">
+<b>Software Engineer</b> with a passion for building scalable systems. I have worked on a wide range of projects and contributed in building systems, services, and platforms at companies such as <b>Zuora</b> and <b>OpenText</b>.
+</p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sufiyan0211&show_icons=true&theme=transparent" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyan0211&layout=compact" />
