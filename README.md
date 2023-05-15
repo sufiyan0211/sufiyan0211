@@ -2,7 +2,6 @@
 <p align="center">
 <b>Software Engineer</b> with a passion for building scalable systems. I have worked on a wide range of projects and contributed in building systems, services, and platforms at companies such as <b>Zuora</b> and <b>OpenText</b>.
 </p>
-</br>
 
 ## Download Resume:
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1j06uCQKqlcHwoqp3pVO-zSXIzzczJoyZ/view?usp=sharing)
@@ -10,10 +9,9 @@
 
 ## Github Statistics
 <p>
-<img align="left" height="300px" width="47%" src="https://github-readme-stats.vercel.app/api?username=sufiyan0211&show_icons=true&theme=transparent"/>
-<img align="left" height="300px" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyan0211&layout=demo&theme=transparent"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sufiyan0211&show_icons=true&theme=transparent"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyan0211&layout=demo&theme=transparent"/>
 </p>
-</br>
 </br>
 
 ## Technologies Worked On:
