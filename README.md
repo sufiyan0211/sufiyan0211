@@ -11,6 +11,8 @@
 <p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sufiyan0211&show_icons=true&theme=transparent"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyan0211&layout=demo&theme=transparent"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sufiyan0211&" alt="sufiyan0211" /></p>
+
 </p>
 </br>
 
