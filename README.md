@@ -42,6 +42,7 @@
 
 
 ## Profile Links:
+<p align="center>
 <a href="https://www.linkedin.com/in/mohammed-abdul-sofiyan-550049165/" target="_blank"> <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
 
@@ -50,3 +51,12 @@
 <a href="https://leetcode.com/sufiyan0211/" target="_blank"> <img align="left" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"> </a>
 
 <a href="https://www.sufiyandev.com/" target="_blank"> <img align="left" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"> </a>
+</p>
+
+</br></br></br>
+
+<p align="center">
+  <a href="https://github.com/sufiyan0211">
+    <img src="https://komarev.com/ghpvc/?username=sufiyan0211&color=blue&style=flat)" />
+  </a>
+</p>
