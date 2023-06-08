@@ -1,20 +1,33 @@
-# Hi there, I'm Sofiyan! 👋
+<h1 align="center">Hi guys! 👋</h1>
 <p align="center">
-<b>Software Engineer</b> with a passion for building scalable systems. I have worked on a wide range of projects and contributed in building systems, services, and platforms at companies such as <b>Zuora</b> and <b>OpenText</b>.
-</p>
+  <i>
+        I'm Sofiyan.<br>
+        <b>Software Engineer</b> with a passion for building scalable systems.<br>
+        I have worked on a wide range of projects and contributed in building systems, services, and platforms at companies such as <b>Zuora</b> and <b>OpenText</b>.<br>
+    </i><br>
 
 ## Download Resume:
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1j06uCQKqlcHwoqp3pVO-zSXIzzczJoyZ/view?usp=sharing)
 </br>
 
 ## Github Statistics
-<p>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sufiyan0211&show_icons=true&theme=transparent"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyan0211&layout=demo&theme=transparent"/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sufiyan0211&" alt="sufiyan0211" /></p>
-
+<details>
+<p align="center">
+  <a href="https://github.com/sufiyan0211">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sufiyan0211&theme=transparent" />
+  </a>
+  <a href="https://github.com/sufiyan0211">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sufiyan0211&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/sufiyan0211">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sufiyan0211&theme=transparent" />
+  </a>
+  <a href="https://github.com/sufiyan0211">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyan0211&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
 </p>
-</br>
+</details>
+
 
 ## Technologies Worked On:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
