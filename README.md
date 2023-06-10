@@ -6,6 +6,7 @@
         I have worked on a wide range of projects and contributed in building systems, services, and platforms at companies such as <b>Zuora</b> and <b>OpenText</b>.<br>
     </i><br>
 </p>
+<hr>
 
 ### Download Resume
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1j06uCQKqlcHwoqp3pVO-zSXIzzczJoyZ/view?usp=sharing)
@@ -58,6 +59,7 @@
 </p>
 
 </br></br></br>
+ <hr>                                                                                                                                  
                                                                                                                                    
 <p align="center">
   <a href="https://github.com/sufiyan0211">
